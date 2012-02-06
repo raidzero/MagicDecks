@@ -1,0 +1,95 @@
+Magic The Gathering Commander Deck (Counterpunch)
+
+Original Green/White/Black - 100 cards
+
+LAND (39)
+----
+8x Swamp
+8x Plains
+10x Forest
+Orzhov Basilica (Swamp & Plains)
+Barren Moor (Swamp)
+Tranquil Thicket (Forest)
+Vivid Meadow (Plains)
+Vivid Grove (Forest)
+Vivid Marsh (Swamp)
+Golgari Rot Farm (Swamp & Forest)
+Temple of the False God (2 colorless)
+Evolving Wilds
+Rupture Spire
+Secluded Steppe (Plains)
+Selesnya Sanctuary (Plains & Forest)
+Command Tower (colorless)
+
+COMMANDERS (3)
+----------
+Ghave, Guru of Spores
+Karador, Ghost Chieftain
+Teneb, the Harvester
+
+CREATURES (24)
+---------
+Deadly Recluse
+Spawnwrithe
+Nantuko Husk
+Celestial Force
+Yavimaya Elder
+Sakura-Tribe Elder
+Dark Hatchling
+Vampire Nighthawk
+Sigil Captain
+Chorus of the COnclave
+Spike Feeder
+Scavenging Ooze
+Penumbra Spider
+Monk Realist
+Vish Kal, Blood Arbiter
+Shriekmaw
+Hornet Queen
+Selesnya Evangel
+Squallmonger
+Golgari Guildmage
+Fertilid
+Symbiotic Wurm
+Selesnya Guildmage
+Aquastrand Spider
+
+SORCERIES/INSTANTS (16)
+-----------------
+Hex
+Tribute to the Wild
+Afterlife
+Cultivate
+Siphon Flesh
+Footbottom Feast
+Harmonize
+Doom Blade
+Storm Herd
+Nemesis Trap
+Cobra Trap
+Mortify
+Alliance of Arms
+Hour of Reckoning
+Death Mutation
+Bestial Menace
+
+ARTIFACTS/ENCHANTMENTS (18)
+----------------------
+Sol Ring
+Lightning Greaves
+Orzhov Signet
+Golgari Signet
+Selesnya Signet
+Skullclamp
+Acorn Catapult
+Darksteel Ingot
+Vow of Malice
+Vow of Duty
+Vow of Wildness
+Oblivion Ring
+Fists of Ironwood
+Attrition
+Necrogenesis
+Soul Snare
+Awakening Zone
+Aura Shards
