@@ -2,15 +2,12 @@ Magic The Gathering Decks
 
 Original Red/Green - 60 cards
 
-LAND (28)
+LAND (23)
 ----
 10x Mountain
 10x Forest
 2x Evolving Wilds
-2x Terramorphic Expanse
 1x Explore
-1x Harrow
-2x Cultivate
 
 CREATURES (17)
 ---------
@@ -21,11 +18,20 @@ CREATURES (17)
 1x Wall of Tanglecord
 1x Joraga Treespeaker
 
-SORCERIES/INSTANTS (15)
+SORCERIES/INSTANTS (16)
 -----------------
 4x Lightning Bolt
 4x Flame Slash
 2x Giant Growth
-2x Fireball
 2x Naturalize
-1x Slice in Twain
+1x Infernal Plunge
+1x Burn the Impure
+1x Overrun
+1x Triumph of the Hordes
+
+ARTIFACTS/ENCHANTMENTS (4)
+----------------------
+1x Lux Cannon
+1x Voltaic Key
+1x Viridian Harvest
+1x Arachnus web
