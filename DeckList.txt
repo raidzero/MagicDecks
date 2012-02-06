@@ -1,35 +1,38 @@
 Tweaked Red/Green - 60 cards
 
-LAND (23)
+LAND (18)
 ----
-10x Mountain
-10x Forest
+8x Mountain
+8x Forest
 2x Evolving Wilds
-1x Explore
 
-CREATURES (17)
+CREATURES (16)
 ---------
-4x Arc Runner
-4x Kiln Fiend
-4x Llanowar Elves
-3x Overgrown Battlement
-1x Wall of Tanglecord
-1x Joraga Treespeaker
+4x Arc Runner - 2M (3)
+4x Kiln Fiend - 1M (2)
+4x Llanowar Elves - F (1)
+3x Overgrown Battlement - 1F (2)
+1x Joraga Treespeaker - F (1)
 
-SORCERIES/INSTANTS (16)
+SORCERIES/INSTANTS (17)
 -----------------
-4x Lightning Bolt
-4x Flame Slash
-2x Giant Growth
-2x Naturalize
-1x Infernal Plunge
-1x Burn the Impure
-1x Overrun
-1x Triumph of the Hordes
+4x Lightning Bolt - M (1)
+4x Flame Slash - M (1)
+2x Giant Growth - F (1)
+2x Naturalize - 1F (2)
+1x Infernal Plunge - M (1)
+1x Burn the Impure - 1M (2)
+1x Overrun - 2FFF (5)
+1x Triumph of the Hordes - 2F (3)
+1x Explore - 1F (2)
 
-ARTIFACTS/ENCHANTMENTS (4)
+ARTIFACTS/ENCHANTMENTS (9)
 ----------------------
-1x Lux Cannon
-1x Voltaic Key
-1x Viridian Harvest
-1x Arachnus web
+1x Lux Cannon - (4)
+1x Voltaic Key - (1)
+1x Viridian Harvest - (F)
+1x Arachnus Web - 2F (3)
+1x Razorfield Thresher - (7)
+1x Cobbled Wings - (2)
+1x Wall of Tanglecord - (2)
+2x Strider Harness - (3)
