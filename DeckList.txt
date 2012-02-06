@@ -1,0 +1,31 @@
+Magic The Gathering Decks
+
+Original Red/Green - 60 cards
+
+LAND (28)
+----
+10x Mountain
+10x Forest
+2x Evolving Wilds
+2x Terramorphic Expanse
+1x Explore
+1x Harrow
+2x Cultivate
+
+CREATURES (17)
+---------
+4x Arc Runner
+4x Kiln Fiend
+4x Llanowar Elves
+3x Overgrown Battlement
+1x Wall of Tanglecord
+1x Joraga Treespeaker
+
+SORCERIES/INSTANTS (15)
+-----------------
+4x Lightning Bolt
+4x Flame Slash
+2x Giant Growth
+2x Fireball
+2x Naturalize
+1x Slice in Twain
