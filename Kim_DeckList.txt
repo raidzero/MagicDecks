@@ -1,0 +1,50 @@
+Magic The Gathering Decks
+
+Original Blue/White - 68 cards
+
+LAND (22)
+----
+10x Island
+10x Plains
+2x Terramorphic Expanse
+
+
+CREATURES (18)
+---------
+2x Kor Hookmaster
+4x Squadron Hawk
+3x Serra Angel
+2x Assault Griffin
+1x Tireless Missionaries
+2x Infantry Veteran
+1x Plated Seastrider
+1x Phantasmal Image
+1x Vedalken Anatomist
+1x Soul's Attendant
+
+
+SORCERIES/INSTANTS (8)
+-----------------
+3x Cancel
+2x Mana Leak
+1x Psychic Barrier
+1x Unsummon
+1x Turn Aside
+
+
+ARTIFACTS/ENCHANTMENTS (20)
+----------------------
+4x Pacifism
+2x Ice Cage
+2x Jace's Erasure
+2x Mind Control
+1x Corrupted Conscience
+1x Sword of War and Peace
+2x Perilous Myr
+2x Memnite
+1x Rusted Relic
+1x Mindcrank
+1x Signal Pest
+1x Pennon Blade
+
+
