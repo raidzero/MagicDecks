@@ -1,4 +1,4 @@
-Tweaked Red/Green - 60 cards
+Tweaked Red/Green - 61 cards
 
 LAND (18)
 ----
@@ -6,25 +6,24 @@ LAND (18)
 8x Forest
 2x Evolving Wilds
 
-CREATURES (16)
+CREATURES (18)
 ---------
 4x Arc Runner - 2M (3)
 4x Kiln Fiend - 1M (2)
 4x Llanowar Elves - F (1)
 3x Overgrown Battlement - 1F (2)
 1x Joraga Treespeaker - F (1)
+2x Fire Servant - 3MM (5)
 
-SORCERIES/INSTANTS (17)
+SORCERIES/INSTANTS (15)
 -----------------
 4x Lightning Bolt - M (1)
 4x Flame Slash - M (1)
 2x Giant Growth - F (1)
 2x Naturalize - 1F (2)
-1x Infernal Plunge - M (1)
 1x Burn the Impure - 1M (2)
 1x Overrun - 2FFF (5)
 1x Triumph of the Hordes - 2F (3)
-1x Explore - 1F (2)
 
 ARTIFACTS/ENCHANTMENTS (9)
 ----------------------
