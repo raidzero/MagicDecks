@@ -1,4 +1,4 @@
-Tweaked Red/Green - 61 cards
+Tweaked Red/Green - 60 cards
 
 LAND (18)
 ----
@@ -10,28 +10,31 @@ CREATURES (18)
 ---------
 4x Arc Runner - 2M (3)
 4x Kiln Fiend - 1M (2)
-4x Llanowar Elves - F (1)
+1x Garruk's Packleader 4F (5)
+1x Arbor Elf F (1)
+1x Ezuri's Archers F (1)
+1x Copperhorn Scout F (1)
 3x Overgrown Battlement - 1F (2)
-1x Joraga Treespeaker - F (1)
+1x Vent Sentinel - 2F (4)
 2x Fire Servant - 3MM (5)
 
-SORCERIES/INSTANTS (15)
+SORCERIES/INSTANTS (16)
 -----------------
 4x Lightning Bolt - M (1)
 4x Flame Slash - M (1)
 2x Giant Growth - F (1)
-2x Naturalize - 1F (2)
-1x Burn the Impure - 1M (2)
+1x Naturalize - 1F (2)
 1x Overrun - 2FFF (5)
 1x Triumph of the Hordes - 2F (3)
+1x Mirran Mettle F (1)
+1x Spidery Grasp 2F (3)
+1x Glissa's Scorn 1F (2)
 
-ARTIFACTS/ENCHANTMENTS (9)
+ARTIFACTS/ENCHANTMENTS (8)
 ----------------------
 1x Lux Cannon - (4)
 1x Voltaic Key - (1)
 1x Viridian Harvest - (F)
-1x Arachnus Web - 2F (3)
-1x Razorfield Thresher - (7)
 1x Cobbled Wings - (2)
 1x Wall of Tanglecord - (2)
 2x Strider Harness - (3)
