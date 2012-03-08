@@ -1,9 +1,12 @@
 Tweaked Red/Green - 60 cards
 
+21 forests required
+22 mountains required
+
 LAND (18)
 ----
-8x Mountain
-8x Forest
+9x Mountain
+7x Forest
 2x Evolving Wilds
 
 CREATURES (18)
@@ -15,7 +18,7 @@ CREATURES (18)
 1x Ezuri's Archers F (1)
 1x Copperhorn Scout F (1)
 3x Overgrown Battlement - 1F (2)
-1x Vent Sentinel - 2F (4)
+1x Vent Sentinel - 3M (4)
 2x Fire Servant - 3MM (5)
 
 SORCERIES/INSTANTS (16)
