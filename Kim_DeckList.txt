@@ -1,6 +1,6 @@
 Magic The Gathering Decks
 
-Original Blue/White - 68 cards
+Original Blue/White - 60 cards
 
 LAND (20)
 ----
@@ -8,35 +8,39 @@ LAND (20)
 9x Plains
 2x Terramorphic Expanse
 
-
-CREATURES (18)
+CREATURES (17)
 ---------
-2x Kor Hookmaster - 2P (3)
-4x Squadron Hawk - 1P (2)
+3x Squadron Hawk - 1P (2)
 3x Serra Angel - 3PP (5)
 2x Assault Griffin - 3P (4)
-2x Infantry Veteran - P (1)
-1x Plated Seastrider - II 92)
 1x Phantasmal Image - 1I (2)
-1x Soul's Attendant - P (1)
+1x Soul Siezer - 3II (5)
+1x Aven Fleetwing - 3I (4)
+1x Stormfront Pegasus - 1P (2)
+1x Augury Owl - 1I (2)
+1x Spire Monitor - 4I (5)
+1x Time Shrike - 3P (4)
+2x Cloud Crusader - 2PP (4)
 
-
-SORCERIES/INSTANTS (8)
+SORCERIES/INSTANTS (11)
 -----------------
 3x Cancel - 1II (3)
-2x Mana Leak - 1I (2)
 1x Psychic Barrier - II (2)
 1x Turn Aside - I (1)
+1x Day of Judgment - 2PP (4)
+1x Dispense Justice - 2P (3)
+1x Solemn Offering - 2P (3)
+1x Sleep - 2II (4)
+1x Safe Passage - 2P (3)
+1x Fulgent Distraction - 2P (3)
 
-ARTIFACTS/ENCHANTMENTS (20)
+ARTIFACTS/ENCHANTMENTS (12)
 ----------------------
 4x Pacifism 1P (2)
 2x Ice Cage - 1I (2)
-2x Jace's Erasure - 1I (2)
-2x Mind Control 3II (5)
+1x Jace's Erasure - 1I (2)
+1x Mind Control 3II (5)
 1x Corrupted Conscience - 3II (5)
 1x Sword of War and Peace (3)
-2x Perilous Myr - (2)
-2x Memnite - (0)
 1x Mindcrank - (2)
 1x Pennon Blade - (3)
